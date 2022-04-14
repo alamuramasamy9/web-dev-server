@@ -14,9 +14,9 @@ export default [
         "logo-image": "/images/react.jpeg",
         "avatar-image": "/images/react.jpeg",
         "comments": 111,
-                    "retweets": 22,
-                    "likes": 333,
-                                       "dislikes" :25,
+        "retweets": 22,
+        "likes": 333,
+        "dislikes" :25,
 
         "stats": {
             "comments": 111,
@@ -42,13 +42,13 @@ export default [
         "comments": 123,
                     "retweets": 23,
                     "likes": 345,
+                    "dislikes" :25,
         "stats": {
             "comments": 123,
             "retweets": 23,
             "likes": 345
-                               "dislikes" :25,
-        },
-                "likes": 50
+
+        }
     },
     {
         "_id": "234",
@@ -72,8 +72,7 @@ export default [
             "retweets": 42,
             "likes": 543
 
-        },
-                "likes": 50
+        }
     },
     {
         "_id": "345",
@@ -95,8 +94,7 @@ export default [
             "comments": 444,
             "retweets": 55,
             "likes": 666
-        },
-                "likes": 50
+        }
     },
     {
         "_id": "456",
@@ -118,7 +116,6 @@ export default [
             "comments": 789,
             "retweets":12 ,
             "likes": 34
-        },
-        "likes": 50
+        }
     }
 ];
