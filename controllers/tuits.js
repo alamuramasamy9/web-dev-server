@@ -13,6 +13,10 @@ export default [
         },
         "logo-image": "/images/react.jpeg",
         "avatar-image": "/images/react.jpeg",
+        "comments": 111,
+                    "retweets": 22,
+                    "likes": 333,
+
         "stats": {
             "comments": 111,
             "retweets": 22,
@@ -34,11 +38,15 @@ export default [
         "logo-image": "/images/spacex.jpeg",
         "avatar-image": "/images/spacex.jpeg",
         "tuits": "120K",
+        "comments": 123,
+                    "retweets": 23,
+                    "likes": 345,
         "stats": {
             "comments": 123,
             "retweets": 23,
             "likes": 345
-        }
+        },
+                "likes": 50
     },
     {
         "_id": "234",
@@ -53,11 +61,15 @@ export default [
         "logo-image": "/images/js.png",
         "avatar-image": "/images/js.png",
         "tuits": "123K",
+         "comments": 321,
+                    "retweets": 42,
+                    "likes": 543,
         "stats": {
             "comments": 321,
             "retweets": 42,
             "likes": 543
-        }
+        },
+                "likes": 50
     },
     {
         "_id": "345",
@@ -71,11 +83,15 @@ export default [
         "logo-image": "/images/jquery.png",
         "avatar-image": "/images/jquery.png",
         "tuits": "122K",
+        "comments": 444,
+                    "retweets": 55,
+                    "likes": 666,
         "stats": {
             "comments": 444,
             "retweets": 55,
             "likes": 666
-        }
+        },
+                "likes": 50
     },
     {
         "_id": "456",
@@ -89,10 +105,14 @@ export default [
         "logo-image": "/images/node.jpeg",
         "avatar-image": "/images/node.jpeg",
         "tuits": "120K",
+        "comments": 789,
+                    "retweets":12 ,
+                    "likes": 34,
         "stats": {
             "comments": 789,
             "retweets":12 ,
             "likes": 34
-        }
+        },
+        "likes": 50
     }
 ];
