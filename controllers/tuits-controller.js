@@ -8,7 +8,7 @@ const createTuit = (req, res) => {
     newTuit.dislikes = 0;
     newTuit.comments = 0;
     newTuit.userName = "Alamu Ramasamy"
-    newTuit.logo-image = /images/profile.jpg"
+    //newTuit.logo-image = "/public/images/profile.jpg"
 
     newTuit.retweets = 0;
     tuits.push(newTuit);
