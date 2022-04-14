@@ -9,7 +9,7 @@ const createTuit = (req, res) => {
     newTuit.comments = 0;
     newTuit.userName = "Alamu Ramasamy";
     newTuit.handle = "al_ra";
-    newTuit.logoImage = "./profile.jpg";
+    newTuit.logoImage = "/images/profile.jpg";
 
     newTuit.retweets = 0;
     tuits.push(newTuit);
