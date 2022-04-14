@@ -16,6 +16,7 @@ export default [
         "comments": 111,
                     "retweets": 22,
                     "likes": 333,
+                                       "dislikes" :25,
 
         "stats": {
             "comments": 111,
@@ -45,6 +46,7 @@ export default [
             "comments": 123,
             "retweets": 23,
             "likes": 345
+                               "dislikes" :25,
         },
                 "likes": 50
     },
@@ -64,10 +66,12 @@ export default [
          "comments": 321,
                     "retweets": 42,
                     "likes": 543,
+                                       "dislikes" :25,
         "stats": {
             "comments": 321,
             "retweets": 42,
             "likes": 543
+
         },
                 "likes": 50
     },
@@ -86,6 +90,7 @@ export default [
         "comments": 444,
                     "retweets": 55,
                     "likes": 666,
+                                       "dislikes" :25,
         "stats": {
             "comments": 444,
             "retweets": 55,
@@ -108,6 +113,7 @@ export default [
         "comments": 789,
                     "retweets":12 ,
                     "likes": 34,
+                   "dislikes" :25,
         "stats": {
             "comments": 789,
             "retweets":12 ,
